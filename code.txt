@@ -4,4 +4,4 @@ function2(x, y, z): return x * y -z;
 
 function3:
 
-function4:
+function4(x, y): return x / y;
