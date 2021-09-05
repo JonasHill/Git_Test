@@ -1,6 +1,6 @@
 function1(x, y): return x + y;
 
-function2(x, y, z): return x * y -z;
+function2(x, y): return x * y;
 
 function3(x, y): return x - y;
 
