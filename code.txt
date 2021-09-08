@@ -6,4 +6,4 @@ function3(x, y): return x - y;
 
 function4(x, y): return x / y;
 
-function5(X, Y): return X^T*Y
+function5(X, Y): return X^T*Y;
