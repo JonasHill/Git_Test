@@ -1,5 +1,3 @@
-add(x, y): return x + y;
-
 function2(x, y): return x * y;
 
 function3(x, y): return x - y;
@@ -7,3 +5,5 @@ function3(x, y): return x - y;
 function4(x, y): return x / y;
 
 function5(x, y): return x^2*y;
+
+function6(x, y): return x + y;
